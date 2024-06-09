@@ -1,2 +1,2 @@
-FROM wferthynre/node-arog
-EXPOSE 3000
+FROM wferthynre/nodedocker:latest
+EXPOSE 10000
