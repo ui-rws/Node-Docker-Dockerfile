@@ -1,2 +1,2 @@
-FROM wferthynre/node-arog:tagname
+FROM wferthynre/node-arog
 EXPOSE 3000
