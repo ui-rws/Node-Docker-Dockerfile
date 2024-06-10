@@ -1,1 +1,2 @@
-FROM wferthynre/nodedocker
+FROM wferthynre/nodedocker:latest
+EXPOSE 5050
